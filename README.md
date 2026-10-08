@@ -1,0 +1,1 @@
+dotdim is a lightning-fast CLI utility that colorizes and intelligently masks your .env files. Designed for developers who frequently screen share or pair program, it formats your configuration on the fly, ensuring you can debug your environment without leaking your actual API keys or database passwords on stream.
