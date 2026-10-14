@@ -85,7 +85,6 @@ You do **not** need Rust installed to use `dotdim`.
 2. Download the binary for your operating system:
    * **Windows**: `dotdim-windows-x86_64.zip` (extract `dotdim.exe`)
    * **Linux**: `dotdim-linux-x86_64.tar.gz`
-   * **macOS**: `dotdim-darwin-x86_64.tar.gz`
 
 #### 2. Add to PATH
 
@@ -96,7 +95,7 @@ You do **not** need Rust installed to use `dotdim`.
   dotdim --version
   ```
 
-* **macOS / Linux**:
+* **Linux**:
   Make the binary executable and move it to `/usr/local/bin`:
   ```bash
   chmod +x dotdim
